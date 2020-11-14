@@ -1,6 +1,6 @@
-# CSC$4025$Z: Artificial Intelligence 
-## Mapping Famous Artworks to a Low Dimensional Manifold for Classification 
+# Mapping Famous Artworks to a Low Dimensional Manifold for Classification 
 
+## CSC4025Z: Artificial Intelligence Project
 
 Zach Wolpe
 
